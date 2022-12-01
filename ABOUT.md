@@ -1,7 +1,7 @@
 ---
 title: ABOUT PAGE
 layout: template
-filename: ABOUT.md
+filename: about.md
 --- 
 
 wazzaaa
