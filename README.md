@@ -1,10 +1,9 @@
 # ccmcdougall.github.io
 
 
-# Blog
-whats u[
+# test
+test
 
-https://github.com/ccmcdougall/ccmcdougall.github.io/edit/main/README.md
 
 [Google](https://google.com) 
 
