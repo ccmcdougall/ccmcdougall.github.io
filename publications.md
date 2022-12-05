@@ -55,6 +55,7 @@ Hill, C., **McDougall, C. C.**, Messinger, T., & Johansen, C. T. (2019). Modific
 **McDougall, C. C.**, Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2018, July). Quantitative analysis of planar laser-induced fluorescence measurements in a hypersonic boundary layer. In *International Symposium on the Application of Laser and Imaging Techniques to Fluid Mechanics* (No. NF1676L-29161).
 
 **McDougall, C. C.**, Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2018). Nitric oxide planar laser-induced fluorescence thermometry measurements in a hypersonic boundary layer. In *2018 aerodynamic measurement technology and ground testing conference* (p. 3629).
+
 ___
 
 #### Patents
