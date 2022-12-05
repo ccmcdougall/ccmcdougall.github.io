@@ -23,7 +23,7 @@ Fladt, J., d’Esterre, C. D., Joundi, R., **McDougall, C.**, Gensicke, H., & Ba
 
 Morrish, R. E., Joundi, R. A., d’Esterre, C. D., **McDougall, C. C.**, Morrish, W. F., & Barber, P. A. (2021). Reversal of Bilateral Sudden Deafness with Thrombectomy. *Canadian Journal of Neurological Sciences, 48*(6), 854-854.
 
-Qazi, S., Qazi, E., Wilson, A. T., **McDougall, C.**, Al-Ajlan, F., Evans, J., ... & Forkert, N. D. (2021). Identifying Thrombus on Non-Contrast CT in Patients with Acute Ischemic Stroke. Diagnostics, 11(10), 1919.
+Qazi, S., Qazi, E., Wilson, A. T., **McDougall, C.**, Al-Ajlan, F., Evans, J., ... & Forkert, N. D. (2021). Identifying Thrombus on Non-Contrast CT in Patients with Acute Ischemic Stroke. *Diagnostics, 11*(10), 1919.
 
 Nair, J. K. R., Saeed, U. A., **McDougall, C. C.**, Sabri, A., Kovacina, B., Raidu, B. V. S., ... & Taylor, J. (2021). Radiogenomic models using machine learning techniques to predict EGFR mutations in non-small cell lung cancer. *Canadian Association of Radiologists Journal, 72*(1), 109-119.
 
@@ -39,6 +39,17 @@ ___
 
 #### Conferences
 
+**McDougall, C. C.**, Johansen, C. T., Herrmann-Stanzel, R., Danehy, P. M., Splinter, S. C., & Gragg, J. G. (2020). Nitric Oxide Laser-Induced Fluorescence Rotational Thermometry in a Hypersonic Non-Equilibrium Flow. In *AIAA Scitech 2020 Forum* (p. 0920).
+
+**McDougall, C. C.**, Maxwell, E., Reaume, N., Gupta Sah, R., d'Esterre, C. D., & Barber, P. A. (2019). Abstract TP69: Three-Phase Helical Computed Tomographic Angiography Perfusion Maps Predict Final Infarction in the Acute Ischemic Stroke Setting. *Stroke, 50*(Suppl_1), ATP69-ATP69.
+
+Hill, C., **McDougall, C. C.**, Messinger, T., & Johansen, C. T. (2019). Modification of paraffin-based hybrid rocket fuels using structural lattices. In *AIAA Propulsion and Energy 2019 Forum* (p. 4191).
+
+**McDougall, C. C.**, Hill, C., Heinrichs, C., & Johansen, C. T. (2019). Spectroscopic Techniques for Measuring Regression Rates of Liquefying Hybrid Rocket Fuels. In *AIAA Propulsion and Energy 2019 Forum* (p. 4098).
+
+**McDougall, C. C.**, Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2018, July). Quantitative analysis of planar laser-induced fluorescence measurements in a hypersonic boundary layer. In *International Symposium on the Application of Laser and Imaging Techniques to Fluid Mechanics* (No. NF1676L-29161).
+
+**McDougall, C. C.**, Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2018). Nitric oxide planar laser-induced fluorescence thermometry measurements in a hypersonic boundary layer. In *2018 aerodynamic measurement technology and ground testing conference* (p. 3629).
 ___
 
 #### Patents
@@ -55,8 +66,4 @@ ___
 
 ___
 
-#### Other
-
-
-___
 
