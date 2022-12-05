@@ -6,9 +6,9 @@ ___
 
 ___
 
-### CV
+### CV - [Download Here](https://drive.google.com/uc?export=download&id=1-_mbKyM7t4iVc5Sg0_qa9PPh5ybSF7w3)
+
 
 ![](cv.PNG)
 
 
-[Download Link](https://drive.google.com/uc?export=download&id=1-_mbKyM7t4iVc5Sg0_qa9PPh5ybSF7w3)
