@@ -1,4 +1,4 @@
-## Connor McDougall, PhD
+### Connor McDougall, PhD
 ### Research portfolio website
 
 ___
