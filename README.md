@@ -1,7 +1,10 @@
-# ccmcdougall.github.io
+# Connor McDougall, PhD
+### Research portfolio website
 
-## Navigation 
-| [Home](home.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
+___
+
+### Navigation 
+| [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
 
 
 # test
