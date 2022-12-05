@@ -1,10 +1,10 @@
-### **Connor McDougall, PhD**
-### Research portfolio website
+### Connor McDougall, PhD
+#### Research portfolio website
 
 ___
 
 
-Navigation -> | [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
+**Navigation**| [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
 
 
 # test
