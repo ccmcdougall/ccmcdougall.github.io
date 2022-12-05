@@ -1,7 +1,7 @@
 # ccmcdougall.github.io
 
 ## Navigation 
-[about page](about.md) | [CV](cv.md) | [Publications](publications.md)
+| [Home](home.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
 
 
 # test
