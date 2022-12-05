@@ -2,7 +2,7 @@
 #### Research portfolio website
 ___
 
-| [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
+| HOME | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
 
 ___
 
