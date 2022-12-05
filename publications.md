@@ -11,9 +11,9 @@ ___
 
 #### Featured
 
-##### McDougall, C. C., Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2020). Evaluation of nitric oxide laser-induced fluorescence thermometry techniques in a hypersonic boundary layer. *xperiments in Fluids, 61*(4), 1-19.
+##### [McDougall, C. C., Chan, L., Sachan, S., Guo, J., Sah, R. G., Menon, B. K., ... & Barber, P. A. (2020). Dynamic CTA-derived perfusion maps predict final infarct volume: the simple perfusion reconstruction algorithm. *American Journal of Neuroradiology, 41*(11), 2034-2040.](http://www.ajnr.org/content/41/11/2034.abstract)
 
-##### McDougall, C. C., Chan, L., Sachan, S., Guo, J., Sah, R. G., Menon, B. K., ... & Barber, P. A. (2020). Dynamic CTA-derived perfusion maps predict final infarct volume: the simple perfusion reconstruction algorithm. *American Journal of Neuroradiology, 41*(11), 2034-2040.
+##### [McDougall, C. C., Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2020). Evaluation of nitric oxide laser-induced fluorescence thermometry techniques in a hypersonic boundary layer. *xperiments in Fluids, 61*(4), 1-19.](https://link.springer.com/article/10.1007/s00348-020-2884-1)
 
 ___
 
@@ -27,7 +27,7 @@ Qazi, S., Qazi, E., Wilson, A. T., **McDougall, C.**, Al-Ajlan, F., Evans, J., .
 
 Nair, J. K. R., Saeed, U. A., **McDougall, C. C.**, Sabri, A., Kovacina, B., Raidu, B. V. S., ... & Taylor, J. (2021). Radiogenomic models using machine learning techniques to predict EGFR mutations in non-small cell lung cancer. *Canadian Association of Radiologists Journal, 72*(1), 109-119.
 
-**McDougall, C. C.**, Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2020). Evaluation of nitric oxide laser-induced fluorescence thermometry techniques in a hypersonic boundary layer. *xperiments in Fluids, 61*(4), 1-19.
+**McDougall, C. C.**, Hinman, W. S., Johansen, C. T., Bathel, B. F., Inman, J. A., & Danehy, P. M. (2020). Evaluation of nitric oxide laser-induced fluorescence thermometry techniques in a hypersonic boundary layer. *Experiments in Fluids, 61*(4), 1-19.
 
 **McDougall, C. C.**, Chan, L., Sachan, S., Guo, J., Sah, R. G., Menon, B. K., ... & Barber, P. A. (2020). Dynamic CTA-derived perfusion maps predict final infarct volume: the simple perfusion reconstruction algorithm. *American Journal of Neuroradiology, 41*(11), 2034-2040.
 
