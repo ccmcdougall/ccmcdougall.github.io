@@ -1,7 +1,9 @@
 ### Connor McDougall, PhD
 #### Research portfolio website
 ___
+
 **Navigation:** | [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
+
 ___
 
 ### Welcome!
@@ -9,9 +11,11 @@ Welcome to my research website! I am a multidisciplinary imaging scientist curre
 
 ### Helpful links
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
-**Navigation:** | [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
-**Navigation:** | [Home](README.md) | [About](about.md) | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
 ___
 
 
