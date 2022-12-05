@@ -7,7 +7,7 @@ ___
 ___
 
 ### Welcome!
-Welcome to my research website! I am a multidisciplinary imaging scientist currently working as a postdoctoral associate in the [Stroke & Cognition Research Group](https://cumming.ucalgary.ca/cerebral-circulation-cognition/stroke-cognition) led by [Dr. Philip Barber](https://cumming.ucalgary.ca/departments/dcns/about/faculty/barber). This site is maintained as a directory for access to my work across multiple websites and platforms, as well as a programming blog which provides helpful tutorials & walkthroughs of practical problems to help with building python-based analysis pipelines (coming soon). If you have any questions, don't hesistate to reach out by email: connor.mcdougall1@ucalgary.ca.
+Welcome to my research website, I am a multidisciplinary imaging scientist currently working as a postdoctoral associate in the [Stroke & Cognition Research Group](https://cumming.ucalgary.ca/cerebral-circulation-cognition/stroke-cognition) led by [Dr. Philip Barber](https://cumming.ucalgary.ca/departments/dcns/about/faculty/barber). This site is maintained as a directory for access to my work across multiple websites and platforms, as well as a programming blog which provides helpful tutorials & walkthroughs of practical problems to help with building python-based analysis pipelines (coming soon). If you have any questions, don't hesistate to reach out by email: connor.mcdougall1@ucalgary.ca.
 
 ### Gallery
 
