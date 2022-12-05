@@ -8,6 +8,11 @@ ___
 
 ### Publications
 
+#### External Links
+
+[Google Scholar](https://scholar.google.ca/citations?user=ksNi-FQAAAAJ&hl=en&oi=ao)
+
+[ResearchGate](https://www.researchgate.net/profile/Connor-Mcdougall)
 
 #### Featured
 
