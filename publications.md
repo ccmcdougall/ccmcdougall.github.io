@@ -49,9 +49,9 @@ ___
 
 #### Theses
 
-McDougall, C. C. (2022). Aerothermodynamic measurements in hypersonic non-equilibrium flows (Doctoral thesis). University of Calgary, Calgary, AB.
+**McDougall, C. C.** (2022). Aerothermodynamic measurements in hypersonic non-equilibrium flows (Doctoral thesis). University of Calgary, Calgary, AB.
 
-McDougall, C. C. (2018). Quantitative Hypersonic Flow Measurements using Planar Laser-Induced Fluorescence (Master's thesis). University of Calgary, Calgary, AB. 
+**McDougall, C. C.** (2018). Quantitative Hypersonic Flow Measurements using Planar Laser-Induced Fluorescence (Master's thesis). University of Calgary, Calgary, AB. 
 
 ___
 
