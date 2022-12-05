@@ -8,7 +8,7 @@ ___
 
 ### About
 
-Multidisciplinary imaging scientist currently working as a postdoctoral associate in the [Stroke & Cognition Research Group](https://cumming.ucalgary.ca/cerebral-circulation-cognition/stroke-cognition) at the University of Calgary.
+Multidisciplinary imaging scientist currently working as a postdoctoral associate in the [Stroke & Cognition Research Group](https://cumming.ucalgary.ca/cerebral-circulation-cognition/stroke-cognition) at the University of Calgary. In graduate school I focused on quantitative imaging approaches to high-speed wind tunnel experiments using laser-based imaging. In my post-doctoral work I am focusing on quantitative blood flow measurements from CT angiography, specifically characterizing tissue perfusion.
 
 
 ### Education
