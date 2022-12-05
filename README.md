@@ -1,5 +1,8 @@
 # ccmcdougall.github.io
 
+## Navigation 
+[about page](about.md) | [CV](cv.md) | [Publications](publications.md)
+
 
 # test
 test
