@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ### Connor McDougall, PhD
 #### Research portfolio website
 ___
