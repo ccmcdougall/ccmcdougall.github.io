@@ -16,6 +16,13 @@ Welcome to my research website! I am a multidisciplinary imaging scientist curre
 
 ### Helpful links
 
+| Genral      | Links       |
+| ----------- | ----------- |
+| UCalgary profile      | [click here](https://profiles.ucalgary.ca/connor-mcdougall)      |
+| LinkedIn   | Text        |
+
+
+
 | Description |
 | ----------- |
 | Stroke - University of Calgary |
