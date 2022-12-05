@@ -8,7 +8,7 @@ ___
 
 ### About
 
-
+Multidisciplinary imaging scientist currently working as a postdoctoral associate in the [Stroke & Cognition Research Group](https://cumming.ucalgary.ca/cerebral-circulation-cognition/stroke-cognition) at the University of Calgary.
 
 
 ### Education
@@ -23,6 +23,6 @@ Thesis: ["Quantitative Hypersonic Flow Measurements using Planar Laser-Induced F
 
 ____
 
-**BSc** / University of British Columbia - Okanagan / Physics / 2012 - 2016 /
+**BSc** / University of British Columbia - Okanagan / Physics / 2012 - 2016 
 
 ___
