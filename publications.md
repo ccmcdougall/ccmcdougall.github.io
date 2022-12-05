@@ -15,6 +15,8 @@ ___
 
 ##### McDougall, C. C., Chan, L., Sachan, S., Guo, J., Sah, R. G., Menon, B. K., ... & Barber, P. A. (2020). Dynamic CTA-derived perfusion maps predict final infarct volume: the simple perfusion reconstruction algorithm. *American Journal of Neuroradiology, 41*(11), 2034-2040.
 
+___
+
 #### Journals
 
 Fladt, J., d’Esterre, C. D., Joundi, R., **McDougall, C.**, Gensicke, H., & Barber, P. (2022). Acute stroke imaging selection for mechanical thrombectomy in the extended time window: is it time to go back to basics? A review of current evidence. *Journal of Neurology, Neurosurgery & Psychiatry, 93*(3), 238-245.
@@ -33,12 +35,17 @@ Qiu, W., Kuang, H., Nair, J., Assis, Z., Najm, M., **McDougall, C.**, ... & Meno
 
 Batchelor, C., Pordeli, P., d’Esterre, C. D., Najm, M., Al-Ajlan, F. S., Boesen, M. E., **McDougall, C.**, ... & Menon, B. K. (2017). Use of noncontrast computed tomography and computed tomographic perfusion in predicting intracerebral hemorrhage after intravenous alteplase therapy. *Stroke, 48*(6), 1548-1553.
 
+___
+
 #### Conferences
 
+___
 
 #### Patents
 
 d'Esterre, C., **McDougall, C.** and Barber, P., Andromeda Medical Imaging Inc, 2022. *System and method for generating perfusion functional maps from temporally resolved helical computed tomographic images.* U.S. Patent Application 17/426,624.
+
+___
 
 #### Theses
 
@@ -46,8 +53,10 @@ McDougall, C. C. (2022). Aerothermodynamic measurements in hypersonic non-equili
 
 McDougall, C. C. (2018). Quantitative Hypersonic Flow Measurements using Planar Laser-Induced Fluorescence (Master's thesis). University of Calgary, Calgary, AB. 
 
+___
+
 #### Other
 
 
-
+___
 
