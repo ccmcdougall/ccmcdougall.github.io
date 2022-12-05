@@ -1,9 +1,4 @@
----
-title: ABOUT PAGE
-layout: template
-filename: about.md
---- 
 
-# testing
 
-test about page 
+
+| [Home](README.md) | **ABOUT** | [CV](cv.md) | [Blog](blog.md) | [Publications](publications.md) |
