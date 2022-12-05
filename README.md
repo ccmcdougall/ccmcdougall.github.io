@@ -27,4 +27,4 @@ Welcome to my research website! I am a multidisciplinary imaging scientist curre
 
 ___
 
-*Note: A clone of this site is backed up to the Ethereum blockchain through IPFS and the Polygon layer 2. To access that site, along with my blog about building solidity-based blockchain applications, follow the link [here](https://ccmcdougall.eth.limo) - coming soon.*
+*Note: A clone of this site is backed up to the Ethereum blockchain through IPFS and the Polygon layer 2. To access that site, along with my blog about building solidity-based blockchain applications, follow the link [here](https://google.com) - coming soon.*
